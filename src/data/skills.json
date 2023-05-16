@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Front-End",
+    "skills": [
+      {
+        "name": "Html",
+        "logo": "./src/images/techs/html.png"
+      },
+      {
+        "name": "Css",
+        "logo": "./src/images/techs/Css.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "./src/images/techs/javascript.png"
+      },
+      {
+        "name": "Jest",
+        "logo": "./src/images/techs/jest.png"
+      },
+      {
+        "name": "React",
+        "logo": "./src/images/techs/react.png"
+      },
+      {
+        "name": "R.T.L",
+        "logo": "./src/images/techs/rtl.png"
+      },
+      {
+        "name": "Redux",
+        "logo": "./src/images/techs/redux.png"
+      }
+    ]
+  },
+  {
+    "title": "Back-End",
+    "skills": [
+      {
+        "name": "Docker",
+        "logo": "./src/images/techs/docker.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./src/images/techs/mysql.png"
+      },
+      {
+        "name": "Node.js",
+        "logo": "./src/images/techs/node.png"
+      },
+      {
+        "name": "Typescript",
+        "logo": "./src/images/techs/typescript.png"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "./src/images/techs/mongodb.png"
+      },
+      {
+        "name": "Python",
+        "logo": "./src/images/techs/python.png"
+      }
+    ]
+  }
+]

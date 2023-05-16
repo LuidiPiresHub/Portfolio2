@@ -1,0 +1,37 @@
+[
+  {
+    "name": "App Receitas",
+    "gitLink": "https://github.com/LuidiPiresHub/App-Receitas",
+    "deployLink": "https://luidipireshub.github.io/Pixel-art/",
+    "image": "./src/images/comingSoon.jpeg"
+  },
+  {
+    "name": "App Delivery",
+    "gitLink": "https://github.com/LuidiPiresHub/App-Delivery",
+    "deployLink": "https://luidipireshub.github.io/Pixel-art/",
+    "image": "./src/images/comingSoon.jpeg"
+  },
+  {
+    "name": "Musical Tunes",
+    "gitLink": "https://github.com/LuidiPiresHub/Trybe-Tunes",
+    "deployLink": "https://luidipireshub.github.io/Pixel-art/",
+    "image": "./src/images/comingSoon.jpeg"
+  },
+  {
+    "name": "Pixels Art",
+    "gitLink": "https://github.com/LuidiPiresHub/Pixels-Art-2.0",
+    "deployLink": "https://luidipireshub.github.io/Pixel-art/",
+    "image": "./src/images/comingSoon.jpeg"
+  },  {
+    "name": "Futebol Clube",
+    "gitLink": "https://github.com/LuidiPiresHub/TFC",
+    "deployLink": "https://luidipireshub.github.io/Pixel-art/",
+    "image": "./src/images/comingSoon.jpeg"
+  },
+  {
+    "name": "Online Store",
+    "gitLink": "",
+    "deployLink": "",
+    "image": "./src/images/comingSoon.jpeg"
+  }
+]
